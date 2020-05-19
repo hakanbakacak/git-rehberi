@@ -1,1 +1,1 @@
-# github-rehberi
+# Git Versiyon Kontrol Rehberi

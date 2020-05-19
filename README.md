@@ -1,1 +1,1 @@
-# Git Versiyon Kontrol Rehberi
+# Git Versiyon Kontrol Sistemi Rehberi

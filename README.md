@@ -8,5 +8,8 @@ Bir proje geliştirirken yazdığınız kod üzerinde yeni düzenlemeler yaparke
 ### 1.1 Versiyon Kontrol Sistemi Nedir?
 Versiyon kontrol sistemi daha sonra geri dönebilmek üzere üzerinde çalışılan dosyalarda yapılan değişiklikleri kaydeden sistemdir. Versiyon kontrolü sayesinde üzerinde çalıştığınız projede yaptığınız yanlış bir ekleme sonucunda projenizi çok hızlı bir şekilde eski haline getirebilirsiniz. Yeni özellikler eklerken dosyaların yedeklerinin oluşturduğu karmaşıklığı önleyebilirsiniz. 
 
-### 1.2 
+### 1.2 Git Nedir?
+### 1.3 Neden Git?
+### 1.4 Git Kurulumu
+
 

@@ -11,5 +11,11 @@ Versiyon kontrol sistemi daha sonra geri dönebilmek üzere üzerinde çalışı
 ### 1.2 Git Nedir?
 ### 1.3 Neden Git?
 ### 1.4 Git Kurulumu
+### 1.5 Git ile İlk Adımlar
+
+## 2. Git Temelleri
+### 2.1 Git Repository'si oluşturmak
+### 2.2 İlk Commit
+### 2.3 Yapılan Değişikliği Geri Almak
 
 

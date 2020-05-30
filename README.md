@@ -10,6 +10,7 @@ Versiyon kontrol sistemi daha sonra geri dönebilmek üzere üzerinde çalışı
 
 ### 1.2 Git Nedir?
 Git, 2005 yılında Linux Geliştirme Topluluğu (Linux development community özellikle Linus Torvalds) tarafından geliştirilmiş dağıtık çalışan bir versiyon kontrol sistemidir. Git geliştirilirken hızlı olması, basit bir tasarıma sahip olması, doğrusal olmayan geliştirmeye uygun olması (non-linear devolopment), tamamen dağıtık çalışması, Linux çekirdeği gibi büyük projelerde de kullanılabilir olması hedeflenmiştir. Eclipse kullanıcı topluluğu anketi verilerine göre 2013 yılı itibarıyla %30 pazar payına ulaşmıştır. 
+Çoğu versiyon kontrol sistemi çalışma dizinindeki dosyalardaki değişiklikleri kaydetme yöntemini izler bunların aksine Git, çalışma dizininde değişiklik olduğunda basitçe anlatmak gerekirse dizindeki dosyaların fotoğrafını (snapshot) çeker. Aynı zamanda değiştirilmemiş dosyaları tekrar depolamaz bu sayede verimliliği artar.
 ### 1.3 Neden Git?
 Git, dağıtık yapısı sayesinde neredeyse tüm işlemleri için çevrimdışı olarak çalışır. Sadece üzerinde çalışacağı dosyaya erişmesi yeterlidir, Üzerinde çalıştığınız bir projede eskiye dönmek için sadece yerelinizdeki dosyalara ihtiyaç duyar. Bu da Git'in çok hızlı çalışmasını sağlar.
 Çalıştığı klasörde Git'in haberi olmadan değişiklik yapılmasını önlemek amacıyla (checksummed) kullandığı mekanizma SHA-1 hash olarak adlandırılır. Bu yapı onaltılık sayı tabanında 40 karakterlik ve Git'teki bir dosya veya dizin yapısının içeriğine göre hesaplanan bir karakter dizisinden oluşur 
@@ -23,4 +24,5 @@ Git, dağıtık yapısı sayesinde neredeyse tüm işlemleri için çevrimdış�
 
 ## Kaynakça
 1- https://git-scm.com/book/en/v2
+
 2- https://tr.wikipedia.org/wiki/Git_(yaz%C4%B1l%C4%B1m)#cite_note-1

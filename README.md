@@ -15,6 +15,21 @@ Git, 2005 yılında Linux Geliştirme Topluluğu (Linux development community ö
 Git, dağıtık yapısı sayesinde neredeyse tüm işlemleri için çevrimdışı olarak çalışır. Sadece üzerinde çalışacağı dosyaya erişmesi yeterlidir, Üzerinde çalıştığınız bir projede eskiye dönmek için sadece yerelinizdeki dosyalara ihtiyaç duyar. Bu da Git'in çok hızlı çalışmasını sağlar.
 Çalıştığı klasörde Git'in haberi olmadan değişiklik yapılmasını önlemek amacıyla (checksummed) kullandığı mekanizma SHA-1 hash olarak adlandırılır. Bu yapı onaltılık sayı tabanında 40 karakterlik ve Git'teki bir dosya veya dizin yapısının içeriğine göre hesaplanan bir karakter dizisinden oluşur 
 ### 1.4 Git Kurulumu
+Bu bölümde farklı işletim sistemleri için Git kurulumundan bahsedilecektir.
+###### 1.4.1 Linux Git Kurulumu
+Paket yükleyicisi aracılığıyla Ubuntu gibi Debian tabanlı linux dağıtımlarına git yüklemek için ```apt``` kullanabilirsiniz.
+```
+$ sudo apt install git-all
+```
+
+Fedora (ya da RHEL, CentOS gibi yakından ilişkili RPM tabanlı linux dağıtımı) kullanıyorsanız ```dnf``` kullanabilirsiniz.
+```
+$ sudo dnf install git-all
+```
+daha çok seçenek için Git'in resmi internet sitesini ziyaret edebilirsiniz.
+
+###### 1.4.2 Windows Git Kurulumu
+###### 1.4.3 macOS Git Kurulumu 
 ### 1.5 Git ile İlk Adımlar
 
 ## 2. Git Temelleri

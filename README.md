@@ -29,7 +29,9 @@ $ sudo dnf install git-all
 daha çok seçenek için Git'in resmi internet sitesini ziyaret edebilirsiniz.
 
 ###### 1.4.2 Windows Git Kurulumu
+Windows'a yüklemek için https://git-scm.com/download/win bu bağlantıya tıkladığımızda kurulum dosyası otomatik olarak indirilmeye başlayacaktır. İndirilen exe dosyasını çalıştırdığınızda kurulum başlayacaktır. Ayrıca Git yüklemenin bir diğer yolu da Github Desktop kurmaktır. Github Desktop kurulduğunda Git de kurulmuş olur. [Bu bağlantıdan](https://desktop.github.com/) Github Desktop uygulamasının sitesine ulaşabilirsiniz.  
 ###### 1.4.3 macOS Git Kurulumu 
+Git yüklemenin birçok yolu vardır. Bu yollardan biri komut satırına ```$ git --version``` yazdığımızda eğer kurulu değil ise gelen adımları takip ettiğimizde kurulmuş olacaktır. Bir diğer yöntem https://git-scm.com/download/mac adresinden en güncel Git sürümünü indirerek adımları takip etmektir ya da Github Desktop kurarak Git'i kurabilirsiniz. [Bu bağlantıdan](https://desktop.github.com/) Github Desktop uygulamasının sitesine ulaşabilirsiniz.  
 ### 1.5 Git ile İlk Adımlar
 
 ## 2. Git Temelleri

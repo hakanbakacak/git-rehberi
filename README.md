@@ -33,7 +33,7 @@ Windows'a yüklemek için https://git-scm.com/download/win bu bağlantıya tıkl
 ###### 1.4.3 macOS Git Kurulumu 
 Git yüklemenin birçok yolu vardır. Bu yollardan biri komut satırına ```$ git --version``` yazdığımızda eğer kurulu değil ise gelen adımları takip ettiğimizde kurulmuş olacaktır. Bir diğer yöntem https://git-scm.com/download/mac adresinden en güncel Git sürümünü indirerek adımları takip etmektir ya da Github Desktop kurarak Git'i kurabilirsiniz. [Bu bağlantıdan](https://desktop.github.com/) Github Desktop uygulamasının sitesine ulaşabilirsiniz.  
 ### 1.5 Git ile İlk Adımlar
-
+Git kurulduğunda Git ile alakalı tüm ayarları yapmamızı sağlayan ve yapılandırma değişkenlerinin bulunduğu bir dosya oluşturan ```git config``` aracıyla birlikte gelir. ```git config``` sonucu oluşan dosyalar sistemde bazı farklı yerlerde tutulabilir. 
 ## 2. Git Temelleri
 ### 2.1 Git Repository'si oluşturmak
 ### 2.2 İlk Commit

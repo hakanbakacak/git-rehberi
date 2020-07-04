@@ -32,8 +32,12 @@ daha çok seçenek için Git'in resmi internet sitesini ziyaret edebilirsiniz.
 Windows'a yüklemek için https://git-scm.com/download/win bu bağlantıya tıkladığımızda kurulum dosyası otomatik olarak indirilmeye başlayacaktır. İndirilen exe dosyasını çalıştırdığınızda kurulum başlayacaktır. Ayrıca Git yüklemenin bir diğer yolu da Github Desktop kurmaktır. Github Desktop kurulduğunda Git de kurulmuş olur. [Bu bağlantıdan](https://desktop.github.com/) Github Desktop uygulamasının sitesine ulaşabilirsiniz.  
 ###### 1.4.3 macOS Git Kurulumu 
 Git yüklemenin birçok yolu vardır. Bu yollardan biri komut satırına ```$ git --version``` yazdığımızda eğer kurulu değil ise gelen adımları takip ettiğimizde kurulmuş olacaktır. Bir diğer yöntem https://git-scm.com/download/mac adresinden en güncel Git sürümünü indirerek adımları takip etmektir ya da Github Desktop kurarak Git'i kurabilirsiniz. [Bu bağlantıdan](https://desktop.github.com/) Github Desktop uygulamasının sitesine ulaşabilirsiniz.  
-### 1.5 Git ile İlk Adımlar
-Git kurulduğunda Git ile alakalı tüm ayarları yapmamızı sağlayan ve yapılandırma değişkenlerinin bulunduğu bir dosya oluşturan ```git config``` aracıyla birlikte gelir. ```git config``` sonucu oluşan dosyalar sistemde bazı farklı yerlerde tutulabilir. 
+### 1.5 Git Ayarlarının Yapılması
+Git kurduktan sonra bazı özelleştirmeler yapmak için ve uzak kod depolarına (repository) çalışabilmek için bazı ayarlar yapmak gerekir. Bu yüzden Git, tüm ayarları yapmamızı sağlayan ve yapılandırma değişkenlerinin bulunduğu bir dosya oluşturan ```git config``` aracıyla birlikte gelir. ```git config``` aracı ile oluşturulan dosya sisteminize kaydedilerek ayarlarınız kalıcı hale gelir. 
+Öncelikle ayarların kaydedildiği dosya yani gitconfig, kaydedildiği yere göre etki alanı değişebilir:
+1- Bir bilgisayardaki tüm kullanıcılar tarafından kullanılması için ..... 
+2- Bilgisayardaki tüm repository'leri etkilemesi için ...... 
+3- Sadece bir repository'yi etkilemesi için .......
 ## 2. Git Temelleri
 ### 2.1 Git Repository'si oluşturmak
 ### 2.2 İlk Commit

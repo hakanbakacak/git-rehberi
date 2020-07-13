@@ -35,10 +35,10 @@ Git yüklemenin birçok yolu vardır. Bu yollardan biri komut satırına ```$ gi
 ### 1.5 Git Ayarlarının Yapılması
 Git kurduktan sonra bazı özelleştirmeler yapmak için ve uzak kod depolarına (repository) çalışabilmek için bazı ayarlar yapmak gerekir. Bu yüzden Git, tüm ayarları yapmamızı sağlayan ve yapılandırma değişkenlerinin bulunduğu bir dosya oluşturan ```git config``` aracıyla birlikte gelir. ```git config``` aracı ile oluşturulan dosya sisteminize kaydedilerek ayarlarınız kalıcı hale gelir. 
 Öncelikle ayarların kaydedildiği dosya yani gitconfig, kaydedildiği yere göre etki alanı değişebilir:
-1- Bir bilgisayardaki tüm kullanıcılar tarafından kullanılması için /etc/gitconfig konumunda tutulur. ```git config --system``` kullanılarak ayarlamalar yapılır. 
-2- Bilgisayardaki tüm repository'leri etkilemesi için ~/.gitconfig konumunda tutulur. ```git config --global``` kullanılarak ayarlamalar yapılır. 
-3- Sadece bir repository'yi etkilemesi için .git/config ...
-şeklinde depolanır. 
+  1- Bir bilgisayardaki tüm kullanıcılar tarafından kullanılması için /etc/gitconfig konumunda tutulur. ```git config --system``` kullanılarak ayarlamalar yapılır. 
+  2- Bilgisayardaki tüm repository'leri etkilemesi için ~/.gitconfig konumunda tutulur. ```git config --global``` kullanılarak ayarlamalar yapılır. 
+  3- Sadece bir repository'yi etkilemesi için ```git config --local``` kullanılır. Ayrıca bu parametre varsayılan değerdir yani parametre eklemediğinizde ```--local``` parametresi eklenmiş olarak kabul edilir. Projeye özel ayarlar yapmak için repository'nizin .git dizinine config dosyası eklemek gerekmektedir.  
+Ayrıca kullandığınız ayarların hangi dosyadan geldiğini öğrenmek için ```git config --list --show-origin``` 
 ## 2. Git Temelleri
 ### 2.1 Git Repository'si oluşturmak
 ### 2.2 İlk Commit

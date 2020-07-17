@@ -5,21 +5,13 @@ Git, küçük ya da çok büyük ölçekli projelerde her şeyi hızlı ve verim
 
 [1. Başlangıç](bolum1.md)
 
-	- [1.2 Git Nedir?](bolum1.md/)
-	
-	- [1.3 Neden Git?](bolum1.md/)
-	
-	- [1.4 Git Kurulumu](bolum1.md/)
-	
-		- [1.4.1 Linux Git Kurulumu](bolum1.md/)
-		
-		- [1.4.2 Windows Git Kurulumu](bolum1.md/)
-		
-		- [1.4.3 macOS Git Kurulumu](bolum1.md/)
-		
-	- [1.5 Git Ayarlarının Yapılması](bolum1.md/)
-	
-		- [1.5.1 Kullanıcı Kimliği Ayarlamak](bolum1.md/)
-		
-		- [1.5.2 Editör Ayarlamak](bolum1.md/)
+	- [1.2 Git Nedir?](bolum1.md)
+	- [1.3 Neden Git?](bolum1.md)
+	- [1.4 Git Kurulumu](bolum1.md)
+		- [1.4.1 Linux Git Kurulumu](bolum1.md)
+		- [1.4.2 Windows Git Kurulumu](bolum1.md)
+		- [1.4.3 macOS Git Kurulumu](bolum1.md)
+	- [1.5 Git Ayarlarının Yapılması](bolum1.md)
+		- [1.5.1 Kullanıcı Kimliği Ayarlamak](bolum1.md)
+		- [1.5.2 Editör Ayarlamak](bolum1.md)
 

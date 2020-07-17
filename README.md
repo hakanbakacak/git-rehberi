@@ -3,5 +3,5 @@ Git, küçük ya da çok büyük ölçekli projelerde her şeyi hızlı ve verim
 
 ![GIT](https://git-scm.com/images/logo@2x.png)
 
-[1. Başlangıç](bolum1.md/## 1. Başlangıç)
-[1.2 Git Nedir?](bolum1.md/### 1.2 Git Nedir?)
+[1. Başlangıç](bolum1.md/## 1.-baslangic)
+	[1.2 Git Nedir?](bolum1.md/### 1.2 Git Nedir?)

@@ -36,12 +36,12 @@ Git kurduktan sonra bazı özelleştirmeler yapmak için ve uzak kod depolarına
   - Sadece bir repository'yi etkilemesi için ```git config --local``` kullanılır. Ayrıca bu parametre varsayılan değerdir yani parametre eklemediğinizde ```--local``` parametresi eklenmiş olarak kabul edilir. Projeye özel ayarlar yapmak için repository'nizin .git dizinine config dosyası eklemek gerekmektedir.  
 Ayrıca kullandığınız ayarların hangi dosyadan geldiğini öğrenmek için ```$ git config --list --show-origin``` komutunu kullanabilirsiniz.
 
-###### Kullanıcı Kimliği Ayarlamak
+###### 1.5.1 Kullanıcı Kimliği Ayarlamak
 Yapmamız gereken ilk ayarlardan biri kullanıcı kimliği ayarlamaktır çünkü yapılacak değişiklikler bu bilgiler kullanılarak kayıt edilecektir. Ayrıca kayıt yapılırken daha sonra bu kaydın kullanıcı kimliği değiştirilemez şekilde ayarlanır. Kullanıcı kimliğinizi ayarlamak veya değiştirmek için:
 ```$ git config --global user.name "John Doe"```
 ```$ git config --global user.email johndoe@example.com```
 komutları kullanılır. Buradaki ```--global``` parametresi eklediğiniz kullanıcının tüm sistemde geçerli olmasını sağlar.
-###### Editör Ayarlamak
+###### 1.5.2 Editör Ayarlamak
 ## 2. Git Temelleri
 ### 2.1 Git Repository'si oluşturmak
 ### 2.2 İlk Commit

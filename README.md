@@ -4,9 +4,9 @@ Git, küçük ya da çok büyük ölçekli projelerde her şeyi hızlı ve verim
 ![GIT](https://git-scm.com/images/logo@2x.png)
 
 [1. Başlangıç](bolum1.md)
-	- [1.2 Git Nedir?](bolum1.md)
-	- [1.3 Neden Git?](bolum1.md)
-	- [1.4 Git Kurulumu](bolum1.md)
+	- [1.2 Git Nedir?](bolum1.md#1-ba%C5%9Flang%C4%B1%C3%A7)
+	- [1.3 Neden Git?](bolum1.md#11-versiyon-kontrol-sistemi-nedir)
+	- [1.4 Git Kurulumu](bolum1.md#14-git-kurulumu)
 		- [1.4.1 Linux Git Kurulumu](bolum1.md)
 		- [1.4.2 Windows Git Kurulumu](bolum1.md)
 		- [1.4.3 macOS Git Kurulumu](bolum1.md)

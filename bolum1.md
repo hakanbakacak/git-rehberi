@@ -41,13 +41,9 @@ Yapmamız gereken ilk ayarlardan biri kullanıcı kimliği ayarlamaktır çünk�
 ```$ git config --global user.name "John Doe"```
 ```$ git config --global user.email johndoe@example.com```
 komutları kullanılır. Buradaki ```--global``` parametresi eklediğiniz kullanıcının tüm sistemde geçerli olmasını sağlar.
-###### 1.5.2 Editör Ayarlamak
-## 2. Git Temelleri
-### 2.1 Git Repository'si oluşturmak
-### 2.2 İlk Commit
-### 2.3 Yapılan Değişikliği Geri Almak
+###### 1.5.2 Ayarları Kontrol Etmek
+Yapılan ayarları kontrol etmek için ```$ git config --list``` komutunu kullanabilirsiniz. Bu komut tüm ayarları listeleyecektir.  
 
 ## Kaynakça
-1- https://git-scm.com/book/en/v2
-
+1- https://git-scm.com/book/en/v2  
 2- https://tr.wikipedia.org/wiki/Git_(yaz%C4%B1l%C4%B1m)#cite_note-1

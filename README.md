@@ -12,5 +12,9 @@ Git, küçük ya da çok büyük ölçekli projelerde her şeyi hızlı ve verim
 		- [1.4.3 macOS Git Kurulumu](bolum1.md#143-macos-git-kurulumu)  
 	- [1.5 Git Ayarlarının Yapılması](bolum1.md#15-git-ayarlar%C4%B1n%C4%B1n-yap%C4%B1lmas%C4%B1)  
 		- [1.5.1 Kullanıcı Kimliği Ayarlamak](bolum1.md#151-kullan%C4%B1c%C4%B1-kimli%C4%9Fi-ayarlamak)  
-		- [1.5.2 Editör Ayarlamak](bolum1.md#152-edit%C3%B6r-ayarlamak)  
+		- [1.5.2 Ayarları Kontrol Etmek](bolum1.md#152-ayarlar%C4%B1-kontrol-etmek)  
+[2. Git Temelleri](bolum2.md#2-git-temelleri)
+	- [2.1 Git Repository'si Oluşturmak](bolum2.md#21-git-repositorysi-olu%C5%9Fturmak)  
+	- [2.2 İlk Commit](bolum2.md#22-i%CC%87lk-commit)  
+	- [2.3 Yapılan Değişikliği Geri Almak](bolum2.md#23-yap%C4%B1lan-de%C4%9Fi%C5%9Fikli%C4%9Fi-geri-almak)
 
